@@ -1,0 +1,6 @@
+﻿  HW2.cpp
+C:\Users\ktpra\source\repos\Graphic_HW2\Graphic_HW2\HW2.cpp(132,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW2\Graphic_HW2\HW2.cpp(145,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW2\Graphic_HW2\HW2.cpp(156,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW2\Graphic_HW2\HW2.cpp(158,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Graphic_HW2.vcxproj -> C:\Users\ktpra\source\repos\Graphic_HW2\Debug\Graphic_HW2.exe
