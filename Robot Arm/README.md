@@ -23,14 +23,6 @@ h/H - hand(wrist)
 3/# - finger 3
 
 *******************************************************
-*  Source files
-*******************************************************
-
-Name:	main.cpp
-	
-	The file contain all the necessary code needed to run the program.
-
-*******************************************************
 *  Circumstances of programs
 *******************************************************
 
