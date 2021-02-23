@@ -1,5 +1,5 @@
 # OpenGL
-All my open GL and Graphic Projects created in C++
+All my open GL and Graphic Projects created in C++ / Java
 
 See individual folder for more detail: 
 
