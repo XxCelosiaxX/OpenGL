@@ -1,0 +1,13 @@
+﻿  Graphic_HW4.cpp
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(22,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(45,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(48,55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(60,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(129,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(130,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(131,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(160,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(161,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(359,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW4\Graphic_HW4\Graphic_HW4.cpp(360,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Graphic_HW4.vcxproj -> C:\Users\ktpra\source\repos\Graphic_HW4\Debug\Graphic_HW4.exe
