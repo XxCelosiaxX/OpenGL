@@ -1,0 +1,7 @@
+﻿  Graphic_HW1.cpp
+C:\Users\ktpra\source\repos\Graphic_HW1\Graphic_HW1\Graphic_HW1.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ktpra\source\repos\Graphic_HW1\Graphic_HW1\Graphic_HW1.cpp(79,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ktpra\source\repos\Graphic_HW1\Graphic_HW1\Graphic_HW1.cpp(81,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW1\Graphic_HW1\Graphic_HW1.cpp(81,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW1\Graphic_HW1\Graphic_HW1.cpp(95,31): warning C4018: '<': signed/unsigned mismatch
+  Graphic_HW1.vcxproj -> C:\Users\ktpra\source\repos\Graphic_HW1\Debug\Graphic_HW1.exe
