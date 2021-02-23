@@ -15,14 +15,6 @@ The program also feature interactive menu (right click) to toggle
 grid on and off as well as exit the program functionality. 
 
 *******************************************************
-*  Source files
-*******************************************************
-
-Name:	Hw3_Source.cpp
-	
-	The file contain all the necessary code needed to run the program.
-
-*******************************************************
 *  Circumstances of programs
 *******************************************************
 
