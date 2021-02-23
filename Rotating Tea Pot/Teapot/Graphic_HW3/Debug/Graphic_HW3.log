@@ -1,0 +1,12 @@
+﻿  Hw3_Source.cpp
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(182,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(190,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(200,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(208,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(217,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(225,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(239,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(241,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(255,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ktpra\source\repos\Graphic_HW3\Graphic_HW3\Hw3_Source.cpp(256,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Graphic_HW3.vcxproj -> C:\Users\ktpra\source\repos\Graphic_HW3\Debug\Graphic_HW3.exe
